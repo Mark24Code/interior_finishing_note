@@ -3,6 +3,12 @@
 
 # 一、背景知识
 
+### 0. 装修的概况
+
+一个简洁的PPT说明白所有
+
+参考：https://www.to8to.com/yezhu/3minute.html
+
 ### 1. 装修公司
 
 装修公司的盈利矛盾、模式分析 https://www.zhihu.com/question/324417734/answer/695583191
