@@ -54,6 +54,13 @@ https://zhuanlan.zhihu.com/p/109572298
 // Todo 这里存在一个问题，关于设计性，个人如何让设计和施工队对接？
 
 
+### 4.专业术语
+
+利于交流
+
+参考： https://www.zhihu.com/question/20923526/answer/189888528
+
+
 # 二、流程
 
 
@@ -184,3 +191,14 @@ TODO
 
 https://www.zhihu.com/question/324417734/answer/695583191
 
+
+
+# 二、开始装修
+
+
+## 流程图
+
+
+## 半包要购买的
+
+参考： https://www.zhihu.com/question/20923526/answer/189888528
